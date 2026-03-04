@@ -1,0 +1,10 @@
+﻿
+> opportunityfinder@0.0.0 lint
+> eslint .
+
+
+C:\Users\pavva\OneDrive\Desktop\vs_code\opportunityFinder\src\pages\ApplicantListPage\ApplicantListPage.tsx
+  3:59  error  'ExternalLink' is defined but never used  @typescript-eslint/no-unused-vars
+
+Γ£û 1 problem (1 error, 0 warnings)
+

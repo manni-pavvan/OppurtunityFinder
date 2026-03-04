@@ -1,0 +1,40 @@
+[
+  {
+    "title": "ML Research",
+    "ai": null
+  },
+  {
+    "title": "Robotics workshop",
+    "ai": null
+  },
+  {
+    "title": "Train scheduling system",
+    "ai": null
+  },
+  {
+    "title": "Cybersecurity internship",
+    "ai": {
+      "entity_type": "opportunity",
+      "opportunity_type": "internship",
+      "title": "cybersecurity internship",
+      "domains": [
+        "cyber security",
+        "computer science"
+      ],
+      "required_skills": [
+        "basic cyber security"
+      ],
+      "candidate_level": "advanced",
+      "mode": "offline",
+      "location": "iisc bengaluru",
+      "date": "2026-02-24",
+      "time": "11:49",
+      "price": 0,
+      "selection_type": "approval",
+      "organiser": {
+        "role": "senior software engineer",
+        "organisation": "google"
+      }
+    }
+  }
+]
